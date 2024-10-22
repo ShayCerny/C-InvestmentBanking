@@ -24,8 +24,6 @@ These improvements would make the app more resilient, secure, and scalable for a
 ### Challenging Aspects and Solutions
 The most challenging part of this project was accurately calculating compound interest with both annual and monthly deposits. Ensuring that the math logic worked across different time frames required careful attention to detail and numerous test cases. To overcome this, I relied on well-documented financial formulas and tested the calculations with known values to ensure accuracy.
 
-To further enhance my skills, I’ve added resources like online finance calculators and financial math documentation to my support network. I also found community forums helpful when debugging complex financial calculations.
-
 ### Transferable Skills
 The skills developed during this project, such as handling user inputs, performing complex mathematical operations, and formatting data for readability, are easily transferable to other coding projects or coursework. The ability to build clear, maintainable code that serves a real-world need, like financial planning, can be applied in various fields, especially in data processing and user-centered applications.
 
